@@ -103,7 +103,4 @@ Após a criação da VM, monitore o desempenho com as ferramentas integradas no 
 - Utilize métricas de monitoramento para verificar o uso de CPU, memória e tráfego de rede.
 - Considere adicionar novas VMs ou utilizar um Balanceador de Carga para distribuir o tráfego entre instâncias.
 
-## Conclusão
-
-Seguindo este guia, você estará pronto para configurar e gerenciar suas máquinas virtuais no Azure de forma otimizada. Manter suas VMs dimensionadas corretamente é essencial para garantir uma boa performance e controlar os custos operacionais. Para mais informações, consulte a [documentação oficial do Azure](https://docs.microsoft.com/en-us/azure/).
 
